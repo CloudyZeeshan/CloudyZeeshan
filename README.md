@@ -1,11 +1,21 @@
-![Cloudy Zeeshan GitHub Banner](https://github.com/CloudyZeeshan/CloudyZeeshan/blob/master/Github%20Banner.png)
+![Cloudy Zeeshan GitHub Banner](https://github.com/CloudyZeeshan/new_web/blob/master/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Cloudy Zeeshan</h1>
 
 <h3 align="center">Web Developer | IT Student | Technology Enthusiast</h3>
 
 <p align="center">
-  I build web experiences, learn through practical projects, and explore AI and emerging technologies.
+  Building modern web experiences, learning through practical projects,
+  and exploring AI & emerging technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/CloudyZeeshan">
+    <img src="https://img.shields.io/badge/GitHub-Cloudy%20Zeeshan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://zh-portfolio-sooty.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -15,34 +25,39 @@
 - 🎓 IT Student at **Governor House Initiative, Karachi**
 - 💻 Web Developer focused on building modern and useful web applications
 - 🤖 Learning and exploring **Artificial Intelligence** and emerging technologies
-- 🧠 Interested in practical projects, experimentation, and continuous improvement
-- 🌍 Interested in learning from the open-source community
-- 🚀 Always building, learning, and improving
+- 🧠 Passionate about learning through practical projects and experimentation
+- 🌍 Interested in open-source projects and collaborative development
+- 🚀 Always learning, building, and improving
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-- React
-- Next.js
-- Node.js
-- Git
-- GitHub
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" alt="Web Development Technologies"/>
+</p>
+
+### 🐍 Programming & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Programming and Development Tools"/>
+</p>
 
 ---
 
-## 🤖 Areas of Interest
+## 🤖 AI & Emerging Technologies
 
-- Artificial Intelligence
-- Agentic AI
-- Prompt Engineering
-- Context Engineering
-- Emerging Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7B61FF?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Learning-181717?style=for-the-badge" alt="Agentic AI"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Exploring-0A66C2?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Context%20Engineering-Learning-2EA44F?style=for-the-badge" alt="Context Engineering"/>
+</p>
 
 ---
 
@@ -50,33 +65,66 @@
 
 - 🌐 Building modern web applications
 - 💻 Strengthening my development skills through practical projects
-- 🤖 Exploring AI, Agentic AI, and emerging technologies
+- 🤖 Exploring Artificial Intelligence and Agentic AI
 - 🧩 Experimenting with new tools and technologies
 - 📚 Continuously learning and improving
+- 🌍 Learning from the open-source community
 
 ---
 
 ## 📈 My GitHub Journey
 
-Building projects, learning new technologies, exploring new ideas, and continuously improving my development skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Building Projects"/>
+  <img src="https://img.shields.io/badge/LEARN-Every%20Day-0A66C2?style=for-the-badge" alt="Learning Every Day"/>
+  <img src="https://img.shields.io/badge/EXPLORE-New%20Technologies-7B61FF?style=for-the-badge" alt="Exploring New Technologies"/>
+  <img src="https://img.shields.io/badge/IMPROVE-Continuously-2EA44F?style=for-the-badge" alt="Continuous Improvement"/>
+</p>
 
-> **Code • Learn • Build • Improve**
+<p align="center">
+  <b>Code • Learn • Build • Improve</b>
+</p>
 
 ---
 
 ## 🌟 Explore My Work
 
-- 🔗 [GitHub Repositories](https://github.com/CloudyZeeshan?tab=repositories)
-- 🌐 [My Portfolio](https://zh-portfolio-sooty.vercel.app/)
-- ▶️ [My YouTube Channel](https://www.youtube.com/@TaimoorHassanOfficial)
+<p align="center">
+  <a href="https://github.com/CloudyZeeshan?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀%20GitHub%20Repositories-Explore-181717?style=for-the-badge" alt="GitHub Repositories"/>
+  </a>
+  <a href="https://zh-portfolio-sooty.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- **GitHub:** [CloudyZeeshan](https://github.com/CloudyZeeshan)
-- **Portfolio:** [zh-portfolio-sooty.vercel.app](https://zh-portfolio-sooty.vercel.app/)
-- **YouTube:** [Taimoor Hassan](https://www.youtube.com/@TaimoorHassanOfficial)
+<p align="center">
+  <a href="https://github.com/CloudyZeeshan">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@TaimoorHassanOfficial">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>GitHub</b> &nbsp; • &nbsp; <b>YouTube</b> &nbsp; • &nbsp; <b>Portfolio</b>
+</p>
+
+---
+
+## 💡 My Goal
+
+> **Learn. Build. Improve. Repeat.**
+
+My goal is to become a highly skilled **Web Developer** while continuing to explore **Artificial Intelligence and emerging technologies**.
+
+I believe in learning through real projects, practical experience, open-source learning, and continuous improvement.
 
 ---
 
@@ -85,5 +133,5 @@ Building projects, learning new technologies, exploring new ideas, and continuou
 </p>
 
 <p align="center">
-  <b>Cloudy Zeeshan</b>
+  <b>— Cloudy Zeeshan</b>
 </p>
