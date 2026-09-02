@@ -103,17 +103,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://github.com/CloudyZeeshan">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Cloudy%20Zeeshan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+
+  <a href="https://zh-portfolio-sooty.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
   <a href="https://www.youtube.com/@TaimoorHassanOfficial">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-Taimoor%20Hassan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+
 </p>
 
 <p align="center">
-  <b>GitHub</b> &nbsp; • &nbsp; <b>YouTube</b> &nbsp; • &nbsp; <b>Portfolio</b>
+  <b>Let's connect, collaborate, and build something great.</b>
 </p>
 
 ---
@@ -133,5 +139,5 @@ I believe in learning through real projects, practical experience, open-source l
 </p>
 
 <p align="center">
-  <b>— Cloudy Zeeshan</b>
+  <b>Cloudy Zeeshan</b>
 </p>
